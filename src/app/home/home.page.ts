@@ -19,7 +19,6 @@ export class HomePage implements OnInit {
   private markers = [
     { longitude: 119.75874998067361, latitude: -8.494730546808958 },
     { longitude: 119.71050016612038, latitude: -8.633402457764554 },
-    { longitude: 119.55805523080643, latitude: -8.469551670518623 },
     {longitude: 119.55708603511063, latitude: -8.680900294610916},
     {longitude: 119.83933885776861, latitude: -8.483610648644428},
     {longitude: 119.70971620767934, latitude: -8.570740725185527},
